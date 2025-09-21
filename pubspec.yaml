@@ -1,0 +1,29 @@
+﻿name: soclose_app
+description: "Application professionnelle pour retrouver les documents perdus. Plateforme de solidarité connectant les personnes qui ont perdu des documents avec celles qui les ont trouvés."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  firebase_core: ^2.24.2
+  firebase_auth: ^4.15.3
+  cloud_firestore: ^4.13.6
+  firebase_storage: ^11.5.6
+  provider: ^6.1.1
+  go_router: ^12.1.3
+  image_picker: ^1.0.4
+  intl: ^0.18.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true

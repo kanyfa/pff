@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "759367473265",
+    "project_id": "app-perte",
+    "storage_bucket": "app-perte.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:759367473265:android:d61b9466fb2ae0870fa3d0",
+        "android_client_info": {
+          "package_name": "comm.kanycom.appperte"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0gQQQ9vEltA9HJEhZ3Ifb1YYanPVVEOs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
